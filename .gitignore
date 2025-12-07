@@ -1,0 +1,19 @@
+# ignore data and models
+/data/
+/models/
+*.pt
+*.bin
+*.h5
+
+# jupyter
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.env
+.kaggle/
+
+# OS
+.DS_Store
+Thumbs.db

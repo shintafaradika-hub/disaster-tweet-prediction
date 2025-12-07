@@ -1,0 +1,25 @@
+# requirements.txt
+# core
+pandas==2.2.2
+numpy==1.26.2
+scikit-learn==1.3.2
+joblib==1.3.2
+matplotlib==3.8.1
+seaborn==0.12.2
+jupyterlab==4.3.1
+# Twitter
+tweepy==4.15.0
+# text preprocessing
+nltk==3.9.0
+emoji==2.5.0
+langdetect==1.0.9
+regex==2024.11.22
+# Kaggle
+kaggle==1.6.3
+# Transformers (optional for BERT)
+transformers==4.34.0
+datasets==2.17.1
+torch==2.2.0
+# for FastAPI deployment
+fastapi==0.99.2
+uvicorn==0.22.0
